@@ -1,2 +1,11 @@
-# 30
-HTML  program link  with CSS 1
+body {
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    color:crimson;
+}
+p{
+    font-size: 12px;
+    text-align: center;
+}
